@@ -315,8 +315,8 @@ export const restaurantInfo = {
   state: "Ebonyi State",
   country: "Nigeria",
   address: "No. 12 Ogoja Road, Abakaliki, Ebonyi State",
-  phone: "+234 803 000 0000",
-  email: "hello@thePromise.ng",
+  phone: "+234 903 7910 725",
+  email: "iamnumcodes@gmail.com",
   hours: [
     { day: "Monday – Thursday", time: "10:00 AM – 9:00 PM" },
     { day: "Friday – Saturday", time: "10:00 AM – 11:00 PM" },
