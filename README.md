@@ -1,6 +1,6 @@
-# Chronicles Restaurant
+# The Promise Restaurant
 
-Chronicles Restaurant is the online storefront for THE PROMISE, a Nigerian restaurant based in Abakaliki. It lets hungry customers browse the menu, build a cart, and check out, while giving the kitchen team an admin dashboard to manage dishes and users. Everything syncs in real time so the menu, cart, and user data stay up to date across devices.
+[the-promise-jet.vercel.app](https://the-promise-jet.vercel.app/) Restaurant is the online storefront for THE PROMISE, a Nigerian restaurant based in Abakaliki. It lets hungry customers browse the menu, build a cart, and check out, while giving the kitchen team an admin dashboard to manage dishes and users. Everything syncs in real time so the menu, cart, and user data stay up to date across devices.
 
 ## System Architecture
 
@@ -102,13 +102,13 @@ sequenceDiagram
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/fluxaro/Chronicles.git
+git clone https://github.com/NumCodes/The-Promise.git
 ```
 
 2. Move into the project folder:
 
 ```bash
-cd Chronicles
+cd The-Promise
 ```
 
 3. Install dependencies:
@@ -198,10 +198,10 @@ This project does not expose custom REST endpoints. Instead, the React client ta
 | Variable | Example |
 | --- | --- |
 | `REACT_APP_FIREBASE_API_KEY` | `AIzaSyB...` |
-| `REACT_APP_FIREBASE_AUTH_DOMAIN` | `chronicles-restaurant.firebaseapp.com` |
-| `REACT_APP_FIREBASE_DB_URL` | `https://chronicles-restaurant.firebaseio.com` |
-| `REACT_APP_FIREBASE_PROJECT_ID` | `chronicles-restaurant` |
-| `REACT_APP_FIREBASE_STORAGE_BUCKET` | `chronicles-restaurant.appspot.com` |
+| `REACT_APP_FIREBASE_AUTH_DOMAIN` | `your-react-app-firebase-auth-domain.firebaseapp.com` |
+| `REACT_APP_FIREBASE_DB_URL` | `https://your-react-app-firebase-db-url.firebaseio.com` |
+| `REACT_APP_FIREBASE_PROJECT_ID` | `your-react-app-firebase-project-id` |
+| `REACT_APP_FIREBASE_STORAGE_BUCKET` | `your-react-app-firebase-storage-bucket.appspot.com` |
 | `REACT_APP_FIREBASE_MESSAGING_ID` | `123456789012` |
 | `REACT_APP_FIREBASE_APP_ID` | `1:123456789012:web:abcdef123456` |
 | `REACT_APP_FIREBASE_MEASUREMENT_ID` | `G-XXXXXXXXXX` |
